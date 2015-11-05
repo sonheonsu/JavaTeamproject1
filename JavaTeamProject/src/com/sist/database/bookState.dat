@@ -1,0 +1,4 @@
+bookState_Id,state
+0,대여가능
+1,대여불가능
+2,정리중
